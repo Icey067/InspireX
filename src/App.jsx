@@ -138,7 +138,7 @@ export default function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>InspireMe 💬</h1>
+      <h1 style={styles.title}>InspireX 💬</h1>
 
       <div style={{ ...styles.card, opacity: fade ? 1 : 0, transform: fade ? "translateY(0)" : "translateY(8px)" }}>
         {loading && <p style={styles.muted}>Loading quote…</p>}
