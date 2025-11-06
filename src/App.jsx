@@ -40,6 +40,7 @@ const LOCAL_FALLBACK_QUOTES = [
   { text: "Simplicity is the soul of efficiency.", author: "Austin Freeman" },
   { text: "It works on my machine.", author: "Every Developer Ever" },
   { text: "Software is a great combination between artistry and engineering.", author: "Bill Gates" },
+  { text: "Simplicity, carried to an extreme, becomes elegance.", author: "Jon Franklin" },
   { text: "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.", author: "C.A.R. Hoare" },
 ];
 
