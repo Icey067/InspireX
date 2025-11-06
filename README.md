@@ -35,7 +35,7 @@ with options to generate new quotes and share your favorites.
 | Frontend | React, JavaScript (Vite) |
 | Styling | CSS / Tailwind CSS |
 | API | [Programming Quotes API](https://programming-quotesapi.vercel.app/api/random) |
-| Deployment | Vercel / Netlify |
+| Deployment | Vercel |
 
 ---
 
