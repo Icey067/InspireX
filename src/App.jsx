@@ -105,8 +105,8 @@ export default function App() {
       const fallback = LOCAL_FALLBACK_QUOTES[Math.floor(Math.random() * LOCAL_FALLBACK_QUOTES.length)];
       setQuote(fallback);
 
-      // error 
-      setError("Network issue or API blocked — showing a local quote. Try again to fetch live quotes.");
+      // show a friendly error message
+      setError("😅 Having trouble reaching our quote server. Here's an inspiring quote from our collection instead! Try again in a moment.");
       setTimeout(() => setFade(true), 40);
     } finally {
       setLoading(false);
